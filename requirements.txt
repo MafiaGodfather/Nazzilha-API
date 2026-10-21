@@ -1,4 +1,4 @@
 fastapi
 uvicorn
-yt-dlp
-curl_cffi
+yt-dlp[default,curl-cffi]
+requests
